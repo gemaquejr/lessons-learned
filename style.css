@@ -12,3 +12,9 @@ body {
   border-radius: 100%;
   float: left;
 }
+
+#licoes_aprendidas {
+  margin: auto;
+  border: 10%;
+  padding: 10%;
+}
