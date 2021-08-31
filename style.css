@@ -22,3 +22,11 @@ body {
   border: 10%;
   padding: 10%;
 }
+
+#right-size {
+  float: right;
+}
+
+#left-size {
+  float: left;
+}
