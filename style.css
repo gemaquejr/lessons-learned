@@ -12,26 +12,26 @@ body {
 
 #cabecalho {
   margin: auto;
-  padding: 10px 10px 10px 10px;
   border: 20px;
   top: 0;
   background-color: bisque;
-  position: fixed center;
+  position: fixed;
   width: 98.4%;
+  line-height: 30px;
 }
 
 #minha_foto {
+  padding-top: 60px;
   margin: auto;
-  padding: 10px 10px 10px 10px;
-  border: 20px;
+  border: 50px;
   display: block;
   border-radius: 50%;
   width: 250px;
 }
 
 .lado-esquerdo {
+  margin-top: 35px;
   margin: 10px;
-  margin-top: 10px;
   padding: 10px 10px 10px 10px;
   border: 20px;
   display: inline-block;
