@@ -1,4 +1,7 @@
 body {
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   background-color: rgb(253, 251, 251);
   font-size: medium;
   color: black;
@@ -8,70 +11,100 @@ body {
 }
 
 #cabecalho {
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
+  top: 0;
   background-color: bisque;
   position: fixed center;
   width: 98.4%;
 }
 
 #minha_foto {
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   display: block;
   border-radius: 50%;
   width: 250px;
-  margin: auto;
 }
 
 .lado-esquerdo {
+  margin: 10px;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   display: inline-block;
-  width: 98.4%;
+  width: 40%;
   text-align: center;
   position: center;
   background-color: burlywood;
 }
 
 .lado-direito {
+  margin: 10px;
+  margin-top: 10px;
+  padding: 55px 10px 10px 10px;
+  border: 20px;
   display: inline-block;
-  width: 98.4%;
+  width: 30%;
   text-align: center;
   position: center;
   background-color: burlywood;
 }
 
 .table {
-  display: inline-block;
-  border: 1px black;
   margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
+  display: inline-block;
   text-align: center;
-  width: 98.4%;
+  width: 74.5%;
 }
 
 .sociais {
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   display: inline-block;
   font-size: large;
-  width: 98.4%;
+  width: 73%;
   text-align: center;
   position: center;
   background-color: chocolate;
 }
 
 .content {
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   display: inline-block;
   font-size: large;
-  width: 49%;
+  width: 36.2%;
   text-align: center;
   position: center;
   background-color: #f5d8c4;
 }
 
 .url-trybe {
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   display: inline-block;
   font-size: large;
-  width: 98.4%;
+  width: 74%;
   text-align:center;
   position: center;
   background-color: chocolate;
 }
 
 #rodape {
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+  border: 20px;
   background-color: bisque;
   position: center;
   width: 98.4%;
