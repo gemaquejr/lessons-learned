@@ -16,8 +16,6 @@ O projeto consistia em desenvolver uma página web simples usando HTML e CSS e q
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 
-- [React](https://reactjs.org/): Biblioteca JavaScript para criar interfaces de usuário
-
 ## :hammer_and_wrench: Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 No diretório do projeto, instale as dependências e inicialize o projeto:
