@@ -15,17 +15,3 @@ O projeto consistia em desenvolver uma página web simples usando HTML e CSS e q
 - [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
-
-## :hammer_and_wrench: Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
-
-No diretório do projeto, instale as dependências e inicialize o projeto:
-
-### `npm install`
-
-Instala as dependências.
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.
-
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
