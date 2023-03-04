@@ -8,6 +8,8 @@ O projeto consistia em desenvolver uma página web simples usando HTML e CSS e q
 
 ## 🚀 Tecnologia
 
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
 - ⚡ HTML é a linguagem base para se desenvolver qualquer site. 
 
 - ⚡ CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML.
